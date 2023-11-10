@@ -2,8 +2,8 @@
   "name": "10Nov",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/10Nov.git",
+    "ssh": "git@github.com:grgshiji/10Nov.git",
     "branch": "block_10Nov"
   },
   "dependencies": {
